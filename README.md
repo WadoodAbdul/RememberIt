@@ -22,3 +22,11 @@ from your local directory. There is option to export the flash cards to differen
 Option to add pages as flash cards, pages will be bought up based on spaced repetition algorithm.
 Aditionally, question-answer pairs can be extracted from the page to make specific flash cards for you.
  
+
+
+## Link
+
+To get started:
+1. https://www.youtube.com/watch?v=B8Ihv3xsWYs
+2. https://www.youtube.com/watch?v=gtF2nHVjqFk
+3. https://www.youtube.com/watch?v=I7PWcY3cCXE
